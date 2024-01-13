@@ -128,7 +128,7 @@ class HomeRoute extends Component {
         <button
           className="try-button"
           type="button"
-          onClick={this.getOriginalMovies()}
+          onClick={this.getOriginalMovies}
         >
           Try Again{' '}
         </button>
